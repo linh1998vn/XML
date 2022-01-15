@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BookOrder>
+    <OrderDate>15/01/2022</OrderDate>
+    <Customer>
+        <Tilte>Khach Hang</Tilte>
+        <FirstName>Linh</FirstName>
+        <LastName>Nguyen</LastName>
+    </Customer>
+    <Book>
+        <Tilte>Lord Of The Ring</Tilte>
+        <Author>J. R. R. Tolkien.</Author>
+    </Book>
+</BookOrder>
