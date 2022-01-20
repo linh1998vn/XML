@@ -1,0 +1,14 @@
+<!ELEMENT houses (house*)>
+<!ELEMENT house (room+)>
+<!ELEMENT room (dimensions,windows,furniture*)>
+<!ELEMENT dimensions (width, length)>
+<!ELEMENT windows (window*)>
+<!ELEMENT window (elevation,width,height)>
+<!ELEMENT furniture (#PCDATA)>
+<!ELEMENT width (#PCDATA)>
+<!ELEMENT length (#PCDATA)>
+<!ELEMENT height (#PCDATA)>
+<!ELEMENT elevation EMPTY>
+<!ATTLIST room name ID #REQUIRED
+            colour IDREF #IMPLIED>
+<!ATTLIST elevation facing (north|south|east|west) #REQUIRED>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE houses SYSTEM "houses.dtd">
+<houses>
+    <house>
+        <room name ="A1">
+            <dimensions>
+                <width>100</width>
+                <length>200</length>
+            </dimensions>
+            <windows>
+                <window>
+                    <elevation facing="north"/>
+                    <width>30</width>
+                    <height>30</height>
+                </window>
+            </windows>
+            <furniture></furniture>
+        </room>
+    </house>
+    <house>
+        <room name="A2">
+            <dimensions>
+                <width>100</width>
+                <length>200</length>
+            </dimensions>
+            <windows>
+                <window>
+                    <elevation facing="south"/>
+                    <width>30</width>
+                    <height>30</height>
+                </window>
+            </windows>
+            <furniture></furniture>
+        </room>
+    </house>
+</houses>
