@@ -1,0 +1,10 @@
+<!ELEMENT Orders (Order*)>
+<!ELEMENT Order (OrderDate, CustomerName, Detail*)>
+<!ATTLIST Order OrderNO ID  #REQUIRED>
+<!ELEMENT OrderDate (#PCDATA)>
+<!ELEMENT CustomerName (#PCDATA)>
+<!ELEMENT Detail (#PCDATA)>
+<!ATTLIST Detail ItemNo CDATA #REQUIRED>
+<!ATTLIST Detail ItemName CDATA #REQUIRED>
+<!ATTLIST Detail Quantity CDATA  "1">
+<!ATTLIST Detail Price CDATA  "0">
