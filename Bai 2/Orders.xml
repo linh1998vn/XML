@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Orders SYSTEM "Orders.dtd">
+<Orders>
+    <Order>
+        <OrderNO>1</OrderNO>
+        <OrderDate>13/10/1998</OrderDate>
+        <CustomerName>Linh</CustomerName>
+        <Detail ItemNo="a" ItemName="v" Quantity="1" Price="0"></Detail>
+    </Order>
+    <Order>
+        <OrderNO>2</OrderNO>
+        <OrderDate>13/10/1998</OrderDate>
+        <CustomerName>Linh</CustomerName>
+        <Detail ItemNo="a" ItemName="v" Quantity="1" Price="0"></Detail>
+    </Order>
+    <Order>
+        <OrderNO>3</OrderNO>
+        <OrderDate>13/10/1998</OrderDate>
+        <CustomerName>Linh</CustomerName>
+        <Detail ItemNo="a" ItemName="v" Quantity="1" Price="0"></Detail>
+    </Order>
+    <Order>
+        <OrderNO>4</OrderNO>
+        <OrderDate>13/10/1998</OrderDate>
+        <CustomerName>Linh</CustomerName>
+        <Detail ItemNo="a" ItemName="v" Quantity="1" Price="0"></Detail>
+    </Order>
+    <Order>
+        <OrderNO>5</OrderNO>
+        <OrderDate>13/10/1998</OrderDate>
+        <CustomerName>Linh</CustomerName>
+        <Detail ItemNo="a" ItemName="v" Quantity="1" Price="0"></Detail>
+    </Order>
+</Orders>
