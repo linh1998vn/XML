@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:noNamespaceSchemaLocation="Orders.xsd">
+    <Order>
+        <OrderNo>1</OrderNo>
+        <OrderDate>13/10/2022</OrderDate>
+        <Customer>
+            <Name>Linh</Name>
+            <Address>Hà Nội</Address>
+            <Email>linh1998@gmail.com</Email>
+        </Customer>
+        <Detail>
+            <ItemNo>1</ItemNo>
+            <ItemName>CPU</ItemName>
+            <Quantity>30</Quantity>
+            <Price>30</Price>
+        </Detail>
+    </Order>
+    <Order>
+        <OrderNo>2</OrderNo>
+        <OrderDate>13/10/2022</OrderDate>
+        <Customer>
+            <Name>Linh</Name>
+            <Address>Hà Nội</Address>
+            <Email>linh1998@gmail.com</Email>
+        </Customer>
+        <Detail>
+            <ItemNo>1</ItemNo>
+            <ItemName>CPU</ItemName>
+            <Quantity>30</Quantity>
+            <Price>30</Price>
+        </Detail>
+    </Order>
+    <Order>
+        <OrderNo>3</OrderNo>
+        <OrderDate>13/10/2022</OrderDate>
+        <Customer>
+            <Name>Linh</Name>
+            <Address>Hà Nội</Address>
+            <Email>linh1998@gmail.com</Email>
+        </Customer>
+        <Detail>
+            <ItemNo>1</ItemNo>
+            <ItemName>CPU</ItemName>
+            <Quantity>30</Quantity>
+            <Price>30</Price>
+        </Detail>
+    </Order>
+    <Order>
+        <OrderNo>4</OrderNo>
+        <OrderDate>13/10/2022</OrderDate>
+        <Customer>
+            <Name>Linh</Name>
+            <Address>Hà Nội</Address>
+            <Email>linh1998@gmail.com</Email>
+        </Customer>
+        <Detail>
+            <ItemNo>1</ItemNo>
+            <ItemName>CPU</ItemName>
+            <Quantity>30</Quantity>
+            <Price>30</Price>
+        </Detail>
+    </Order>
+    <Order>
+        <OrderNo>5</OrderNo>
+        <OrderDate>13/10/2022</OrderDate>
+        <Customer>
+            <Name>Linh</Name>
+            <Address>Hà Nội</Address>
+            <Email>linh1998@gmail.com</Email>
+        </Customer>
+        <Detail>
+            <ItemNo>1</ItemNo>
+            <ItemName>CPU</ItemName>
+            <Quantity>30</Quantity>
+            <Price>30</Price>
+        </Detail>
+    </Order>
+
+</Orders>
